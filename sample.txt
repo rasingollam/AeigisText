@@ -1,0 +1,5 @@
+Rust has become an important part of my programming journey. From the moment I first wrote a small program in Rust, I was struck by its combination of performance, safety, and expressive design. The language encourages careful thinking about ownership and memory, which leads to fewer runtime errors and more reliable software.
+
+Beyond the technical advantages, Rust's community is welcoming and pragmatic, with abundant documentation and thoughtful libraries. Writing in Rust has helped me appreciate systems-level concerns while still enabling high-level abstractions. Small projects compile quickly, and the tooling—cargo, rustfmt, and clippy—makes development smooth and consistent.
+
+Ultimately, what I love about Rust is how it balances power with discipline: you can build fast, low-level software without sacrificing correctness. That combination makes it an excellent choice for projects where performance and reliability matter, and it continues to be a language I enjoy and recommend.

@@ -85,6 +85,10 @@ data = json.loads(proc.stdout)
 
 ```bash
 echo "Long text..." | target/release/aegis_text --keywords --summary
+
+## or
+
+target/release/aegis_text --file sample.txt --keywords --summary
 ```
 
 Python streaming example:
